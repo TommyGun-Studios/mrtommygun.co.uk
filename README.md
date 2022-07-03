@@ -7,15 +7,18 @@ If you have any questions or business proposals see the appropriate section belo
 ----------------------------------------------------
 
 -- Project Start Date --
+
    DD/MM/YYYY
+   
    03/07/2022
    
  ---------------------------------------------------
- 
- 
- ---------------------------------------------------
  Contact Information
+ 
  Business Email: tommy@tommygunstudios.co.uk
+ 
  Twitter: Mr_TommyGun_
+ 
  Discord: Mr_TommyGun#4580
+ 
   ---------------------------------------------------

@@ -15,7 +15,7 @@ If you have any questions or business proposals see the appropriate section belo
  ---------------------------------------------------
  Contact Information
  
- Business Email: tommy@tommygunstudios.co.uk
+ Business Email: tommy@mrtommygun.co.uk
  
  Twitter: Mr_TommyGun_
  
